@@ -1,0 +1,5 @@
+/Users/carissacammarata/Projects/Data Structures Lab/Data Structures Lab/obj/Debug/net6.0/Data Structures Lab.csproj.AssemblyReference.cache
+/Users/carissacammarata/Projects/Data Structures Lab/Data Structures Lab/obj/Debug/net6.0/Data Structures Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carissacammarata/Projects/Data Structures Lab/Data Structures Lab/obj/Debug/net6.0/Data Structures Lab.AssemblyInfoInputs.cache
+/Users/carissacammarata/Projects/Data Structures Lab/Data Structures Lab/obj/Debug/net6.0/Data Structures Lab.AssemblyInfo.cs
+/Users/carissacammarata/Projects/Data Structures Lab/Data Structures Lab/obj/Debug/net6.0/Data Structures Lab.csproj.CoreCompileInputs.cache
